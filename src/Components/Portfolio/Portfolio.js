@@ -22,7 +22,7 @@ const Portfolio = () => {
                 grabCursor={true}
                 className="portfolio-slider">
                 <SwiperSlide>
-                    <img src={portfolio} alt="" height='220px' />
+                    <a href='https://dancing-semolina-ccfa2f.netlify.app/'><img src={portfolio} alt="" height='220px' /></a>
                 </SwiperSlide>
                 <SwiperSlide>
                     <a href=' https://irfanhathoti.github.io/clock/'><img src={Sidebar} alt="" height='220px' /></a>
